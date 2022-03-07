@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\User\source\repos\PooLab\lab3\Lab3\main.cpp(8,23): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\User\source\repos\PooLab\lab3\Lab3\main.cpp(8,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\User\source\repos\PooLab\lab3\Lab3\main.cpp(9,23): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\User\source\repos\PooLab\lab3\Lab3\main.cpp(9,19): warning C4309: 'initializing': truncation of constant value
+  Lab3.vcxproj -> C:\Users\User\source\repos\PooLab\lab3\Lab3\Debug\Lab3.exe
