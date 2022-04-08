@@ -1,0 +1,57 @@
+﻿  Catalog.cpp
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(9,9): error C2143: syntax error: missing ';' before '*'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(9,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(9,18): error C2238: unexpected token(s) preceding ';'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(18,18): error C2061: syntax error: identifier 'Student'
+  main.cpp
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(9,9): error C2143: syntax error: missing ';' before '*'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(9,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(9,18): error C2238: unexpected token(s) preceding ';'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(18,18): error C2061: syntax error: identifier 'Student'
+  Materie.cpp
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(9,9): error C2143: syntax error: missing ';' before '*'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(9,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(9,18): error C2238: unexpected token(s) preceding ';'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(18,18): error C2061: syntax error: identifier 'Student'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(5,1): error C2011: 'Materie': 'class' type redefinition
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(4): message : see declaration of 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.cpp(5,10): error C2027: use of undefined type 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(4): message : see declaration of 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.cpp(6,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.cpp(8,1): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.cpp(9,15): error C2027: use of undefined type 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(4): message : see declaration of 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.cpp(11,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.cpp(13,14): error C2027: use of undefined type 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(4): message : see declaration of 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.cpp(15,9): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.cpp(17,15): error C2027: use of undefined type 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(4): message : see declaration of 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.cpp(19,9): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.cpp(22,16): error C2027: use of undefined type 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(4): message : see declaration of 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.cpp(24,9): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.cpp(26,15): error C2027: use of undefined type 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(4): message : see declaration of 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.cpp(32,15): error C2027: use of undefined type 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(4): message : see declaration of 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.cpp(34,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+  Student.cpp
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(9,9): error C2143: syntax error: missing ';' before '*'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(9,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(9,18): error C2238: unexpected token(s) preceding ';'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(18,18): error C2061: syntax error: identifier 'Student'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(5,1): error C2011: 'Materie': 'class' type redefinition
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(4): message : see declaration of 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Student.cpp(19,35): error C2027: use of undefined type 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(4): message : see declaration of 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Student.cpp(24,1): error C2027: use of undefined type 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(4): message : see declaration of 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Student.cpp(23,18): error C2027: use of undefined type 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(4): message : see declaration of 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Student.cpp(39,19): error C2027: use of undefined type 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Materie.h(4): message : see declaration of 'Materie'
+C:\Users\User\source\repos\partial2021Poo(1)\Student.cpp(40,2): error C2059: syntax error: '}'
+C:\Users\User\source\repos\partial2021Poo(1)\Student.cpp(45,10): error C2227: left of '->Student' must point to class/struct/union/generic type
+C:\Users\User\source\repos\partial2021Poo(1)\Student.cpp(45): error C2064: term does not evaluate to a function taking 4 arguments
+  Generating Code...
