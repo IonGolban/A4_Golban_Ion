@@ -1,0 +1,9 @@
+﻿  Dacia.cpp
+  FerrariRosu.cpp
+  main.cpp
+  Masina.cpp
+  Parcare.cpp
+C:\Users\User\source\repos\LabTestSesiune6\Parcare.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+  Toyota.cpp
+  Generating Code...
+  LabTestSesiune6.vcxproj -> C:\Users\User\source\repos\LabTestSesiune6\Debug\LabTestSesiune6.exe
